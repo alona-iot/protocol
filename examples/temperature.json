@@ -1,0 +1,7 @@
+{
+  "v": 1,
+  "ts": 1700000000,
+  "sensor": "temperature",
+  "value": 18.9,
+  "unit": "celsius"
+}
